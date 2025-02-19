@@ -153,7 +153,7 @@ const HomeFeature: FC = () => {
                 fontWeight: 'bold',
               }}
             >
-              Lunch Your{' '}
+              Launch Your{' '}
               <Typography
                 component="mark"
                 sx={{
