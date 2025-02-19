@@ -7,7 +7,7 @@ import Container from '@mui/material/Container'
 import Typography from '@mui/material/Typography'
 import CircularProgress from '@mui/material/CircularProgress'
 import LinearProgress, { linearProgressClasses } from '@mui/material/LinearProgress'
-// import { data } from './feature.data'
+import { data } from './feature.data'
 
 interface LinearProgressProps {
   order: number
